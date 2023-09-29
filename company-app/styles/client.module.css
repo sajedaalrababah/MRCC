@@ -1,0 +1,85 @@
+.clientImage {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.clientText {
+    font-size: 0.5rem;
+    font-family: 'Raleway';
+    
+}
+
+.clientDiv {
+    width: 80%;
+    height: 80%;
+    align-items: center;
+
+
+}
+
+
+@media (min-width: 800px) {
+    .clientDiv {
+        width: 100%;
+        height: 60%;
+    }
+
+    .clientImage {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+
+    .clientText {
+        font-size: 15px;
+        font-family: 'Raleway';
+    }
+    .contain{
+
+    }
+}
+
+.title__line {
+    font-size: 2.8rem;
+    color: #141414;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.2;
+    display: block;
+}
+
+.text__theme {
+    font-size: 2.8rem;
+    color: #fcc236;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.2;
+}
+
+.text {
+    text-align: center !important;
+
+    /* display: block; */
+    padding: 20px;
+
+}
+
+@media (min-width: 800px) {
+    .text {
+      padding: 60px;
+     
+    }
+    .titlep{
+        width: 40%;
+    }
+  }
+
+.titlep{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 21px auto auto;
+    width: 60%;
+    color: #606060;
+}
