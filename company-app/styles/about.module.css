@@ -1,0 +1,63 @@
+
+  .show {
+    opacity: 1;
+  }
+  
+  
+  
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 1;
+  }
+  
+  .heading {
+    font-size: 6rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .paragraph {
+    font-size: 1.2rem;
+  }
+
+.title__line{
+    font-size: 2.8rem;
+    color: #141414;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.2;
+    display: block;
+}
+.text__theme{
+    font-size: 2.8rem;
+    color: #fcc236;
+    font-variant-ligatures: common-ligatures;
+    line-height: 1.2;
+}
+.text{
+    text-align: center!important;
+   
+    display: block;
+    padding: 0px;
+
+}
+
+@media (min-width: 800px) {
+  .text {
+    padding: 60px;
+  }
+}
+.titlep{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 21px auto auto;
+    width: 54%;
+    color: #606060;
+}
