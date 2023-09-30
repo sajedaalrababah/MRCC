@@ -59,10 +59,10 @@ const Navbar = () => {
             <Link href='/بروفايل شركة ضخور المدينه للمقاولات.pdf'>Company Profile</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{ fontFamily: 'Raleway' }}>
-            <Link href='/project'>project</Link>
+            <Link href='/project'>Project</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{ fontFamily: 'Raleway' }}>
-            <Link href='/Equipments'>resources</Link>
+            <Link href='/Equipments'>Resources</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{ fontFamily: 'Raleway' }}>
             <Link href='/contact'>Contact</Link>
@@ -126,10 +126,10 @@ const Navbar = () => {
               <Link href='/#about'>About</Link>
             </li>
             <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
-              <Link href='/project'>project</Link>
+              <Link href='/project'>Project</Link>
             </li>
             <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
-              <Link href='/Equipments'>resources</Link>
+              <Link href='/Equipments'>Resources</Link>
             </li>
             <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
               <Link href='/contact'>Contact</Link>

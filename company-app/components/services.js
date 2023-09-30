@@ -27,17 +27,17 @@ const teamMembers = [
     {
         name: 'Landscaping and site organization',
         major: 'Designing, landscaping, and maintaining all types of gardens, along with providing the best ideas to clients for decorating gardens with the latest methods and equipment.',
-        image: 'https://img.freepik.com/free-photo/reforestation-done-by-voluntary-group_23-2149500824.jpg?w=996&t=st=1695228680~exp=1695229280~hmac=ac6303f834ab800b6c53c9895b103c7988d8f6f14c57b7bd8b692ca98ca449fe',
+        image: 'https://img.freepik.com/free-photo/reforestation-done-by-voluntary-group_23-2149500824.jpg?w=996&t=st=1696025352~exp=1696025952~hmac=e5edbe85bba9d7a2f0066d0115dab26c7e0c1227ff525b5cdb26ce83ced2ef87',
 
     },
     {
         name: 'Underground Electrical ,lighting , Telephone , Lines.',
         major: 'Installation and maintenance of electrical systems and lighting solutions.',
-        image: 'https://img.freepik.com/free-photo/low-angle-shot-electric-linemen-working-pole_181624-46993.jpg?w=996&t=st=1695228852~exp=1695229452~hmac=77c3f5d36f15df3d04e1369f154e4425ebff95343abedb3bcd65f12d47c88284',
+        image: 'https://img.freepik.com/free-photo/male-electrician-works-switchboard-with-electrical-connecting-cable_169016-15086.jpg?size=626&ext=jpg&ga=GA1.1.1442964426.1687759231&semt=ais',
 
     },
     {
-        name: ' maintenance of both main and submain water networks.',
+        name: ' Maintenance of both main and submain water networks.',
         major: 'Design, installation, and maintenance of primary and submain water networks, ensuring efficient water distribution and delivery',
         image: 'https://img.freepik.com/free-photo/diminishing-perspective-water-canal-near-dock_23-2148139879.jpg?w=360&t=st=1695229441~exp=1695230041~hmac=8732595d93953cfac8a075a654aa6ff2ff349b2be23d48f1a6992a48b8fa51b9',
 

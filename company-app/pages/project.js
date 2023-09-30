@@ -12,57 +12,57 @@ const teamMembers = [
       "1مشروع.jpg",
   },
   {
-    name: "Implementation of Group 7/3 Water Projects in the Northern Border Region",
+    name: "NAME : Implementation of Group 7/3 Water Projects in the Northern Border Region",
     major:
       " LOCATION : Al-Ayina and Al-Jubailah Municipality.",
     image:
       "/water.jpg",
   },
   {
-    name: "Renovation Process of Fifth Primary School and Second Secondary School in Al-Majma'ah",
+    name: "NAME : Renovation Process of Fifth Primary School and Second Secondary School in Al-Majma'ah",
     major:
       " LOCATION :Majmaah Governorate.",
     image:
       "https://static.srpcdigital.com/styles/1200x600/public/2022/09/15/1663251404074764900.jpg",
   },
   {
-    name: "Construction Process of the First Primary School in Al-Shu'bah",
+    name: "NAME : Construction Process of the First Primary School in Al-Shu'bah",
     major:
       " LOCATION :Majmaah Governorate.",
     image:
     "/school2.jpg",
   },
   {
-    name: "Implementation of Water Tanks and Networks for Group 9/7 - Contract Number[1]",
+    name: "NAME : Implementation of Water Tanks and Networks for Group 9/7 - Contract Number[1]",
     major:
       " LOCATION :Najran Region.",
     image:
     "/فيضان.jpg",
   },
   {
-    name: "Execution of Water Tanks and Networks for Group 9/6 - Contract Number [2]",
+    name: "NAME : Execution of Water Tanks and Networks for Group 9/6 - Contract Number [2]",
     major:
-    " LOCATION :Najran Region.",
+    " LOCATION : Najran Region.",
     image:
     "/خزان2.jpg",
     },
   
   {
-    name: "Implementation Contract for Dawadmi Water Network - Contract Number [2]",
+    name: "NAME : Implementation Contract for Dawadmi Water Network - Contract Number [2]",
     major:
       "LOCATION : Dawadmi Governorate .",
     image:
     " /دوادمي2.jpg " ,
   },
   {
-    name: "Implementation of Dawadmi Water Network",
+    name: "NAME : Implementation of Dawadmi Water Network",
     major:
       "LOCATION : Dawadmi Governorate .",
     image:
     "/دوادمي1.jpg",
     },
   {
-    name: " Installation of Shelters for Group 30",
+    name: "NAME : Installation of Shelters for Group 30",
     major:
     "LOCATION : Riyadh City.",
     image:
@@ -70,21 +70,21 @@ const teamMembers = [
   },
 
   {
-    name: " IWater Projects for Group 1/5",
+    name: "NAME : Water Projects for Group 1/5",
     major:
       "LOCATION : Dawadmi Governorate .",
     image:
     "/networkwater.jpg",
     },
   {
-    name: "Contract for the Implementation of Water Networks in Wadi Al-Dawasir City",
+    name: "NAME : Contract for the Implementation of Water Networks in Wadi Al-Dawasir City",
     major:
       "LOCATION : Wadi Al-Dawasir Governorate",
     image:
     "/دواسي.jpg",
   },
   {
-    name: "Contract for the Completion of Home Connections and Meters in Cities and Villages in the Jazan Region",
+    name: "NAME : Contract for the Completion of Home Connections and Meters in Cities and Villages in the Jazan Region",
     major:
       "LOCATION : Jazan Region",
     image:
@@ -154,7 +154,7 @@ const Projectpage = () => {
                     />
                   </div>
                   <div className="inset-x-0 p-2 bg-white bottom-20">
-                    <h1 className="text-black text-s font-dmserif">
+                    <h1 className="text-black text-m font-dmserif">
                       {member.name}
                     </h1>
                     <p className="text-black text-s">{member.major}</p>

@@ -57,10 +57,10 @@ const Navbar = () => {
             <Link href='/بروفايل شركة ضخور المدينه للمقاولات.pdf'>Company Profile</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{    fontFamily: 'Raleway'}}>
-            <Link href='/project'>project</Link>
+            <Link href='/project'>Project</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{    fontFamily: 'Raleway'}}>
-            <Link href='/resources'>resources</Link>
+            <Link href='/resources'>Resources</Link>
           </li>
           <li className='p-4 hover:text-orange-300' style={{    fontFamily: 'Raleway'}}>
             <Link href='/contact'>Contact</Link>
